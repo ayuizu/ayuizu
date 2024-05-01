@@ -1,7 +1,7 @@
 <h3 align="left">Oi! Eu sou a Ayumi Izu 👋 </h3>
 
 <hr/>
-<p>📚 Estudando Análise e Desenvolvimento de Sistemas na Unisinos</p>
+<p>📚 Estudo Análise e Desenvolvimento de Sistemas na Unisinos</p>
 <p>🎓 Formada em Engenharia Civil pela UFRGS</p>
 <div>
 <!--
@@ -17,8 +17,8 @@
 </div>
 <hr/>
 <div align=center>
-  <h4>🛠️ Linguagens 🛠️</h4>
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,ts"/></a></p></div>
+  <h4>🛠️ Linguagens | Framerworks 🛠️</h4>
+  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,js,html,css,ts,bootstrap"/></a></p></div>
 
 <div align=center>
   <h4>✨ Stats ✨</h4>

@@ -1,7 +1,8 @@
 <h3 align="left">Oi! Eu sou a Ayumi Izu 👋 </h3>
 
 <hr/>
-<p>📚 Estudo Análise e Desenvolvimento de Sistemas na Unisinos</p>
+<p>💻 Desenvolvedora de Software Full-Stack</p>
+<p>📚 Estudante de Análise e Desenvolvimento de Sistemas na Unisinos</p>
 <p>🎓 Formada em Engenharia Civil pela UFRGS</p>
 <div>
 <!--
